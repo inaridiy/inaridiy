@@ -10,10 +10,10 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yutkat&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yutkat/yutkat/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![trophy](https://github-profile-trophy.vercel.app/?username=inaridiy&theme=gruvbox)](https://github.com/inaridiy/github-profile-trophy)
+[![](https://raw.githubusercontent.com/inaridiy/inaridiy/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/inaridiy/inaridiy/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/inaridiy/inaridiy/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[![](https://activity-graph.herokuapp.com/graph?username=yutkat&theme=github)](https://activity-graph.herokuapp.com/graph?username=yutkat&theme=github)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=yutkat&theme=dark)
+[![](https://activity-graph.herokuapp.com/graph?username=inaridiy&theme=github)](https://activity-graph.herokuapp.com/graph?username=inaridiy&theme=github)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=inaridiy&theme=dark)](https://github-readme-streak-stats.herokuapp.com/?user=inaridiy&theme=dark)
