@@ -1,3 +1,8 @@
+# Hello!!! I'm inaridiy
+
+Hight School Web3 Engineer
+
+
 <p align="left">
   <a href="https://github.com/inaridiy/inaridiy/">
     <img src="https://komarev.com/ghpvc/?username=inaridiy" alt="inaridiy" />
