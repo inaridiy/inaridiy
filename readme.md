@@ -9,3 +9,5 @@
     <img height="20" src="https://img.shields.io/github/followers/inaridiy?label=follow&logo=github&style=flat" />
   </a>
 </p>
+
+[![Inaridiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=inaridiy)](https://github.com/inaridiy/github-readme-stats)
