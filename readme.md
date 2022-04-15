@@ -11,4 +11,4 @@
 </p>
 
 [![Inaridiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=inaridiy)](https://github.com/inaridiy/github-readme-stats)
-![Inaridiy's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=inaridiy)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=inaridiy&layout=compact)
