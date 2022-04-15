@@ -10,6 +10,12 @@
   </a>
 </p>
 
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaridiy&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=inaridiy&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=inaridiy&theme=gruvbox)](https://github.com/inaridiy/github-profile-trophy)
 [![](https://raw.githubusercontent.com/inaridiy/inaridiy/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/inaridiy/inaridiy/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
