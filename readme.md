@@ -13,6 +13,7 @@ Hight School Web3 Engineer
   <a href="https://github.com/inaridiy">
     <img height="20" src="https://img.shields.io/github/followers/inaridiy?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://wakatime.com/@c172f51d-7be1-4360-97b4-222302a9f84a"><img src="https://wakatime.com/badge/user/c172f51d-7be1-4360-97b4-222302a9f84a.svg" alt="Total time coded since Sep 3 2021" /></a>
 </p>
 
 <p align="left">
