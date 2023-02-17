@@ -21,6 +21,10 @@ Hight School Web3 Engineer
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=inaridiy&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=inaridiy&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=inaridiy&repo=AStar-Student-Faucet&theme=gruvbox)](https://github.com/inaridiy/AStar-Student-Faucet)
 
 
