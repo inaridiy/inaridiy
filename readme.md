@@ -7,7 +7,7 @@ Hight School Web3 Engineer
   <a href="https://github.com/inaridiy/inaridiy/">
     <img src="https://komarev.com/ghpvc/?username=inaridiy" alt="inaridiy" />
   </a>
-  <a href="http://twitter.com/unknown_gakusei">
+  <a href="http://twitter.com/inaridiy">
     <img height="20" src="https://img.shields.io/twitter/follow/unknown_gakusei?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/inaridiy">
